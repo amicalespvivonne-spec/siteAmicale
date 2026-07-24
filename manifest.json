@@ -1,16 +1,21 @@
 {
   "name": "Amicale de Vivonne",
   "short_name": "Amicale",
-  "start_url": "index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#ef4444",
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/d/1gmDLICz22tk1fPigDiUnrpPi_ozzDytI",
+      "src": "logo.jpg",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/jpeg",
       "purpose": "any maskable"
+    },
+    {
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
     }
   ]
 }

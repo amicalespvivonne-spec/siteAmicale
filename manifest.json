@@ -1,8 +1,9 @@
 {
-  "name": "Amicale Sapeurs-Pompiers Vivonne",
+  "name": "Amicale des Sapeurs-Pompiers de VIVONNE",
   "short_name": "Amicale Vivonne",
   "description": "Espace Membres Amicale des Sapeurs-Pompiers de Vivonne",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
